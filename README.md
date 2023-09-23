@@ -49,7 +49,9 @@ Citations and Sources
 
 <br>Dinu, I. (2012). "Trouble with Maxwell’s Electromagnetic Theory: Can Fields Induce Other Fields in Vacuum?" The Great Science Journal.
 <br>----
+
 <br>Added
+
 <br>Wolf, P. and G. Petit (1995). "Relativistic Theory for Clock Synchronization and Realization of Geocentric Coordinate Times." Astronomy and Astrophysics 304: 653.
 	
 
