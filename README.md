@@ -1,7 +1,7 @@
 # Debate_Sources
 Citations and Sources
 
-Michelson, A. A. and E. W. Morley (1887). "On the Relative Motion of the Earth and the Luminiferous Ether." American Journal of Science s3-34(203): 333.
+Michelson, A. A. and E. W. Morley (1887). "On the Relative Motion of the Earth and the Luminiferous Ether." American Journal of Science s3-34(203): 333. <br>
 Sagnac, G. (1913). "The Existence of the Luminiferous Ether Demonstrated by Means of the Effect of a Relative Ether Wind in an Uniformly Rotating Interferometer."
 Michelson, A. A. and H. G. Gale (1925). "The Effect of the Earth's Rotation on the Velocity of Light." Nature 115(2894): 566-566.
 Michelson, A. A. and H. G. Gale (1925). "The Effect of the Earth's Rotation on the Velocity of Light II." The Astrophysical Journal 61: 140.
