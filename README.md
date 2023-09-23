@@ -48,6 +48,12 @@ Citations and Sources
 <br>Earman, J. and C. Glymour (1980). "The Gravitational Red Shift as a Test of General Relativity: History and Analysis." Studies in History and Philosophy of Science Part A 11(3): 175-214.
 
 <br>Dinu, I. (2012). "Trouble with Maxwell’s Electromagnetic Theory: Can Fields Induce Other Fields in Vacuum?" The Great Science Journal.
+<br>----
+<br>Added
+<br>Wolf, P. and G. Petit (1995). "Relativistic Theory for Clock Synchronization and Realization of Geocentric Coordinate Times." Astronomy and Astrophysics 304: 653.
+	
+
+
 	
 
 	
