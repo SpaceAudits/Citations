@@ -1,7 +1,7 @@
 # Debate_Sources
 Citations and Sources
 
-Michelson, A. A. and E. W. Morley (1887). "On the Relative Motion of the Earth and the Luminiferous Ether." American Journal of Science s3-34(203): 333. <br>
+<br>Michelson, A. A. and E. W. Morley (1887). "On the Relative Motion of the Earth and the Luminiferous Ether." American Journal of Science s3-34(203): 333.
 Sagnac, G. (1913). "The Existence of the Luminiferous Ether Demonstrated by Means of the Effect of a Relative Ether Wind in an Uniformly Rotating Interferometer."
 Michelson, A. A. and H. G. Gale (1925). "The Effect of the Earth's Rotation on the Velocity of Light." Nature 115(2894): 566-566.
 Michelson, A. A. and H. G. Gale (1925). "The Effect of the Earth's Rotation on the Velocity of Light II." The Astrophysical Journal 61: 140.
@@ -24,7 +24,7 @@ Thomson, S. J. (1919). "Joint Eclipse Meeting of the Royal Society and the Royal
 Pound, R. V. and G. A. Rebka (1960). "Apparent Weight of Photons." Physical Review Letters 4(7): 337-341.
 Pound, R. V. and J. L. Snider (1965). "Effect of Gravity on Gamma Radiation." Physical Review 140(3B): B788-B803.
 Earman, J. and C. Glymour (1980). "The Gravitational Red Shift as a Test of General Relativity: History and Analysis." Studies in History and Philosophy of Science Part A 11(3): 175-214.
-Dinu, I. (2012). "Trouble with Maxwell’s Electromagnetic Theory: Can Fields Induce Other Fields in Vacuum?" The Great Science Journal.
+Dinu, I. (2012). "Trouble with Maxwell’s Electromagnetic Theory: Can Fields Induce Other Fields in Vacuum?" The Great Science Journal.</br>
 	
 
 	
